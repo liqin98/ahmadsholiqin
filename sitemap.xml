@@ -1,31 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
      <loc>https://liqin98.github.io/ahmadsholiqin/Home/</loc>
-     <lastmod>2020-04-25</lastmod>
+     <lastmod>2020-06-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://liqin98.github.io/ahmadsholiqin/tugas1/</loc>
-     <lastmod>2020-04-25</lastmod>
+     <lastmod>2020-06-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://liqin98.github.io/ahmadsholiqin/Numerical%20Solution/</loc>
-     <lastmod>2020-04-25</lastmod>
+     <lastmod>2020-06-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://liqin98.github.io/ahmadsholiqin/Tugas3/</loc>
-     <lastmod>2020-04-25</lastmod>
+     <lastmod>2020-06-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://liqin98.github.io/ahmadsholiqin/Romberg/</loc>
-     <lastmod>2020-04-25</lastmod>
+     <lastmod>2020-06-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://liqin98.github.io/ahmadsholiqin/richardson/</loc>
-     <lastmod>2020-04-25</lastmod>
+     <lastmod>2020-06-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://liqin98.github.io/ahmadsholiqin/Tugas5/</loc>
-     <lastmod>2020-04-25</lastmod>
+     <lastmod>2020-06-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://liqin98.github.io/ahmadsholiqin/Monte%20Carlo/</loc>
+     <lastmod>2020-06-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
